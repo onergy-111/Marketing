@@ -1,0 +1,134 @@
+{
+  "pages": 20,
+  "aspect_ratio": "16:9",
+  "slide_checks": [
+    {
+      "page": 1,
+      "editable_text_objects": 9,
+      "picture_objects": 2,
+      "speaker_notes": true
+    },
+    {
+      "page": 2,
+      "editable_text_objects": 19,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 3,
+      "editable_text_objects": 20,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 4,
+      "editable_text_objects": 16,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 5,
+      "editable_text_objects": 22,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 6,
+      "editable_text_objects": 17,
+      "picture_objects": 1,
+      "speaker_notes": true
+    },
+    {
+      "page": 7,
+      "editable_text_objects": 15,
+      "picture_objects": 1,
+      "speaker_notes": true
+    },
+    {
+      "page": 8,
+      "editable_text_objects": 23,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 9,
+      "editable_text_objects": 21,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 10,
+      "editable_text_objects": 16,
+      "picture_objects": 1,
+      "speaker_notes": true
+    },
+    {
+      "page": 11,
+      "editable_text_objects": 21,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 12,
+      "editable_text_objects": 20,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 13,
+      "editable_text_objects": 14,
+      "picture_objects": 1,
+      "speaker_notes": true
+    },
+    {
+      "page": 14,
+      "editable_text_objects": 15,
+      "picture_objects": 1,
+      "speaker_notes": true
+    },
+    {
+      "page": 15,
+      "editable_text_objects": 16,
+      "picture_objects": 1,
+      "speaker_notes": true
+    },
+    {
+      "page": 16,
+      "editable_text_objects": 17,
+      "picture_objects": 3,
+      "speaker_notes": true
+    },
+    {
+      "page": 17,
+      "editable_text_objects": 18,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 18,
+      "editable_text_objects": 19,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 19,
+      "editable_text_objects": 24,
+      "picture_objects": 0,
+      "speaker_notes": true
+    },
+    {
+      "page": 20,
+      "editable_text_objects": 12,
+      "picture_objects": 1,
+      "speaker_notes": true
+    }
+  ],
+  "missing_text": [],
+  "unexpected_wrapping": [],
+  "out_of_bounds": [],
+  "edit_roundtrip": "passed",
+  "fonts_in_pdf": [
+    "NotoSansCJKsc-Bold",
+    "NotoSansCJKsc-Regular"
+  ]
+}
